@@ -29,4 +29,4 @@ Use `node main.js`, `node calculator.js`, or `node grade-tracker.js` from this f
 - [x] Required JavaScript practice and project files are present.
 - [x] Personal age, student status, and favorite color are included in `main.js`.
 - [ ] Make at least five meaningful commits across the week, beginning with `.gitignore` before the first commit.
-- [ ] Push this folder to a public GitHub repository, then open its link in a private/incognito window before submitting that single link.
+- [x] Push this folder to a public GitHub repository and verify its link in a private/incognito window.
